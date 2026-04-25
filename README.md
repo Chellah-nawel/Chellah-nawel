@@ -1,27 +1,109 @@
-<h1 align="center">Hi 👋, I'm CHELLAH Nawel</h1>
-<h3 align="center">A passionate frontend developer from Algeria</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chellah-nawel&label=Profile%20views&color=0e75b6&style=flat" alt="chellah-nawel" /> </p>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nawel%20Chellah&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20·%20UI%20Enthusiast%20·%20Algeria%20🇩🇿&descAlignY=55&descSize=16" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chellah-nawel" alt="chellah-nawel" /></a> </p>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Passionate+Frontend+Developer+%F0%9F%92%BB;Building+beautiful+web+experiences+%E2%9C%A8;Currently+crafting+a+Pet+Adoption+App+%F0%9F%90%BE;Always+learning+%26+growing+%F0%9F0%9F%8C±" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on **adoption pets web site**
+<br/>
 
-- 🌱 I’m currently learning **back-end development and frameworks**
+<!-- Profile Views & Followers -->
+<img src="https://komarev.com/ghpvc/?username=chellah-nawel&label=Profile+Views&color=a78bfa&style=for-the-badge" alt="profile views" />
+&nbsp;
+<a href="https://github.com/chellah-nawel?tab=followers">
+  <img src="https://img.shields.io/github/followers/chellah-nawel?label=Followers&style=for-the-badge&color=a78bfa" />
+</a>
 
-- 📫 How to reach me **chellah.nawel@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nawel chellah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nawel chellah" height="30" width="40" /></a>
-<a href="https://www.behance.net/nawel chellah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nawel chellah" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## 🌸 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chellah-nawel&show_icons=true&locale=en&layout=compact" alt="chellah-nawel" /></p>
+```javascript
+const nawel = {
+  location:    "Algeria 🇩🇿",
+  role:        "Frontend Developer",
+  currentWork: "🐾 Pet Adoption Web App",
+  learning:    ["Back-end Development", "Modern Frameworks"],
+  contact:     "chellah.nawel@gmail.com",
+  funFact:     "I turn coffee ☕ into beautiful UIs",
+};
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chellah-nawel&show_icons=true&locale=en" alt="chellah-nawel" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chellah-nawel&" alt="chellah-nawel" /></p>
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vue&theme=dark" />
+
+### ⚙️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=php,java,python,mysql,firebase&theme=dark" />
+
+### 🧰 Tools & Design
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chellah-nawel&theme=dracula&no-frame=true&no-bg=false&margin-w=6&row=1" alt="trophies" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=chellah-nawel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa" height="165" alt="stats" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chellah-nawel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=c9d1d9" height="165" alt="top langs" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chellah-nawel&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="streak stats" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:chellah.nawel@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/nawel-chellah">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.behance.net/nawelchellah">
+  <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chellah-nawel&bg_color=0D1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" alt="activity graph" />
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>
