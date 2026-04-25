@@ -30,7 +30,7 @@ const nawel = {
   currentWork: "🐾 Pet Adoption Web App",
   learning:    ["Back-end Development", "Modern Frameworks"],
   contact:     "chellah.nawel@gmail.com",
-  funFact:     "I turn coffee ☕ into beautiful UIs",
+  funFact:     "I turn Tea into beautiful UIs",
 };
 ```
 
@@ -51,15 +51,6 @@ const nawel = {
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chellah-nawel&theme=dracula&no-frame=true&no-bg=false&margin-w=6&row=1" alt="trophies" />
-</div>
-
----
 
 ## 📊 GitHub Stats
 
