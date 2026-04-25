@@ -3,11 +3,6 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nawel%20Chellah&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20·%20UI%20Enthusiast%20·%20Algeria%20🇩🇿&descAlignY=55&descSize=16" />
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Passionate+Frontend+Developer+%F0%9F%92%BB;Building+beautiful+web+experiences+%E2%9C%A8;Currently+crafting+a+Pet+Adoption+App+%F0%9F%90%BE;Always+learning+%26+growing+%F0%9F0%9F%8C±" alt="Typing SVG" />
-</a>
-
 <br/>
 
 <!-- Profile Views & Followers -->
@@ -76,7 +71,7 @@ const nawel = {
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/nawel-chellah">
+<a href="https://linkedin.com/in/nawel chellah">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
